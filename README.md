@@ -4,7 +4,7 @@
 ---
 
 ## 工作經歷
-### [Fiisual](https://fiisual.com/) - 資料科學實習生 (2026.01 - 至今)
+### [Fiisual](https://tw.fiisual.com/product) - 資料科學實習生 (2026.01 - 至今)
 * **六都房價預測模型**：實作 LightGBM 模型，於雙北地區達成 $R^2$ 0.80 - 0.84 之解釋力。
 * **高階特徵工程**：利用 `geopy` 進行地理空間分析，並實作 Target Encoding 與 K-means 分群。
 * **數據清洗**：運用 IQR 處理實價登錄髒數據，提升模型穩定度。
