@@ -19,6 +19,15 @@
 
 ---
 
+## 專案
+### [全台房價季度預測模型](https://github.com/Candice251/Housing-Price-Prediction-Model)
+* 以內政部實價登錄資料為基礎，建立每季可更新的全台房價預測系統。
+* 涵蓋 2012–2026 Q1 共 55 季、逾 100 萬筆交易資料，
+* 產出各縣市／行政區／屋齡區間／房屋類型的季度房價分佈指標，
+* 並串接公司前端系統上線供使用者查詢。
+
+---
+
 ## 工具
 * **專業技能**: Python、SQL、C++、Scikit-learn、SHAP、Git、機器學習模型建置
 * **資料分析**: 資料清洗、EDA、特徵工程 (Target Encoding/K-means)、Pandas 
