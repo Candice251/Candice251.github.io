@@ -10,8 +10,8 @@
 - 獨立建構全台房價預測系統，處理逾 100 萬筆實價登錄資料，採 LightGBM + 10-Fold CV 建模，六都 R² 達 0.75–0.84，RMSLE 控制在 0.13–0.16
 - 設計 K-means 空間聚類特徵捕捉局部地段溢價，串接捷運、台鐵、高鐵、商圈開放資料計算空間距離特徵，經 SHAP 驗證聚類特徵重要性排名第一
 - 自定義 30+ 個財經標籤庫，以 Embedding + Cosine Similarity 篩選候選集，串接 LLM API 進行 Zero-shot 標注，訓練 LinearSVM 多標籤分類模型達成 Micro F1 0.76、AP 0.84
-- 參與爬蟲開發、資料庫寫入（SQL、MongoDB），產出結果串接前端系統已上線
 
+  
 ## 專案
 
 **[全台房價季度預測模型](https://github.com/Candice251/Housing-Price-Prediction-Model)**
